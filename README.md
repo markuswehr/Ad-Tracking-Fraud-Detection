@@ -1,6 +1,6 @@
 # Ad-Tracking-Fraud-Detection
 
-![Image of Presentation](https://octodex.github.com/images/yaktocat.png)
+![Image of Presentation](images/presentation_jpegs/Slide01.jpeg)
 
 
 Fraud risk is everywhere, but for companies that advertise online, click fraud can happen at an overwhelming volume, resulting in misleading click data and wasted money. Ad channels can drive up costs by simply clicking on the ad at a large scale. With over 1 billion smart mobile devices in active use every month, China is the largest mobile market in the world and therefore suffers from huge volumes of fradulent traffic.
